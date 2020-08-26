@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankWithExceptions", "BankWithExceptions\BankWithExceptions.csproj", "{503F1FBD-79B4-4FA2-B69C-A79E3554627E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503F1FBD-79B4-4FA2-B69C-A79E3554627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503F1FBD-79B4-4FA2-B69C-A79E3554627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503F1FBD-79B4-4FA2-B69C-A79E3554627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503F1FBD-79B4-4FA2-B69C-A79E3554627E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D2F925-47A4-4190-8252-615297607D18}
+	EndGlobalSection
+EndGlobal
